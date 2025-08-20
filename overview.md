@@ -12,9 +12,9 @@ The A10 Control platform helps network administrators easily monitor, configure,
 **Explorers** – Discover dashboards, alerts, and monitoring features to get the most out of the platform.
 
 ## With A10 Control, you can:
-- Monitor network traffic and device health
-- Detect and resolve issues quickly
-- Provides insights to keep the network secure, fast, and reliable
+- Monitor network traffic and device health.
+- Detect and resolve issues quickly.
+- Provides insights to keep the network secure, fast, and reliable.
 
 ## A10 GUI image
 > [!image]
