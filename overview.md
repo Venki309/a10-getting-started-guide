@@ -16,5 +16,4 @@ The A10 Control platform helps network administrators easily monitor, configure,
 - Detect and resolve issues quickly.
 - Provides insights to keep the network secure, fast, and reliable.
 
-## A10 GUI image
-> [!image]
+*Visual Suggestion: A10 Control GUI*

@@ -12,5 +12,11 @@ Begin by preparing your environment for A10 Control. This section guides you thr
 ## Installation Steps
 
 1. Download the A10 Control installer from the [A10 Networks Support portal](https://support.a10networks.com/oauth2_access).
-2. Run the installer and follow the prompts.
-3. Launch the A10 Control application.
+Log in with your credentials.
+2. Go to the **Software Downloads and Documentation** page.
+3. Under the **Software** tab, select the **A10 Control** section.
+4. Download the A10 Control ISO, OVA, or QCOW2 file as needed.
+5. Run the installer and follow the prompts.
+6. Launch the A10 Control application.
+
+*Visual Suggestion: Screenshot of installation UI.*
